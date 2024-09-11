@@ -1,0 +1,8 @@
+/* Add application styles & imports to this file! */
+/* src/styles.css or src/styles.scss */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+.top-margin-10 {
+  margin-top: 10%;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
